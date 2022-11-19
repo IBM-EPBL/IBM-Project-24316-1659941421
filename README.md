@@ -32,6 +32,6 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 <img src="https://model001.s3.jp-tok.cloud-object-storage.appdomain.cloud/IBM_Cloud_logo.png" alt="IBM Cloud" width="40" height="40" >
 
 
-# PROJECT DEVELOPMENT ⬇<img src="https://thumbs.gfycat.com/TintedFemaleFieldspaniel-size_restricted.gif" width="1050" height="300"> 
+
 
 ### FOR FEEDBACK & QUERIES - mohankumart4102@gmail.com
