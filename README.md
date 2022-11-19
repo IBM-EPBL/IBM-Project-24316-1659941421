@@ -1,5 +1,3 @@
-<img src="https://model001.s3.jp-tok.cloud-object-storage.appdomain.cloud/banner.png" width="1050" height="400">
-
 # 🩸PLASMA DONAR APPLICATION
 
 ### TEAM ID : PNT2022TMID54082
